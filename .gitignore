@@ -1,0 +1,8 @@
+*.mexa64
+
+/test/*
+
+la_rank_classify
+la_rank_learn
+model_a1a.txt
+
